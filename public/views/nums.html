@@ -1,0 +1,16 @@
+<!-- public/views/nums.html -->
+
+<div class="jumbotron text-center">
+  <h1>Nums</h1>
+
+  <p>{{ tagline }}</p>
+</div>
+
+ <div ng-controller="NumsController">
+   Called {{num}} times
+   <br>
+  <button class="btn btn-default btn-sm" ng-click="getResponse()">Trigger Request and Display Response</button>
+  <br>
+  response:
+  <div> {{data}} </div>
+</div>

@@ -55,7 +55,7 @@
     "mongoose": "^5.7.6",
     "morgan": "^1.0.0",
     "ms": ">=0.7.1",
-    "nodemailer": "1.2.2",
+    "nodemailer": "6.9.8",
     "passport": "^0.2.0",
     "passport-facebook": "^1.0.3",
     "passport-github": "^0.1.5",
